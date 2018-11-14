@@ -2,4 +2,6 @@ Hello world
 
 Add new line
 
-§Ú¬OUser2---
+I am User2---
+
+--I am user1--
