@@ -8,4 +8,8 @@ I am User2---
 
 --User2 modify--
 
+<<<<<<< HEAD
 1116 test local
+=======
+-----1116 modify---
+>>>>>>> d86629a0c9625ef3a641a3b287b440ca17592b5d
